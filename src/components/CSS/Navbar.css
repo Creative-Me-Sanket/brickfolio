@@ -1,0 +1,41 @@
+
+.navbar-item{
+    font-weight: 700;
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 15px 7px 15px;
+    margin-left: 5px;
+    transition: 0.3s;
+    font-size: 14px;
+    border-radius: 50px;
+}
+
+.navbar-item:hover{
+    padding: 5px 15px 7px 15px;
+    margin-left: 5px;
+    transition: 0.3s;
+    font-size: 14px;
+    border-radius: 50px;
+    background: #f16745;
+}
+
+
+.category-item{
+    font-weight: 700;
+    text-decoration: none;
+    color: #f16745;
+    padding: 5px 15px 7px 15px;
+    margin-left: 5px;
+    transition: 0.3s;
+    font-size: 14px;
+    border-radius: 50px;
+}
+
+.category-item:hover{
+    padding: 5px 15px 7px 15px;
+    margin-left: 5px;
+    transition: 0.3s;
+    font-size: 14px;
+    border-radius: 50px;
+    /* background: #fff; */
+}
